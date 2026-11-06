@@ -1,0 +1,19 @@
+# Large datasets: do not commit (see data/README.md for download steps)
+data/*.csv
+data/*.zip
+data/raw/
+
+# Secrets
+.env
+*.pem
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local report-generation artefacts and client submission PDF
+output/
+report_build.py
+assignment_text.txt
+Odigie_Osimen_301826111.pdf
