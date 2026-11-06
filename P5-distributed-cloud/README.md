@@ -1,4 +1,4 @@
-# Portfolio 5: Distributed and Cloud Database (6 marks)
+# Portfolio 5: Distributed and Cloud Database
 
 ## Objective
 

@@ -1,4 +1,4 @@
-# Portfolio 2: Query Processing and Optimisation (7 marks)
+# Portfolio 2: Query Processing and Optimisation
 
 ## Objective
 Write SQL queries for the case study, record their execution plans, add indexes, and measure and explain the performance change. Uses the data loaded in Portfolio 1.

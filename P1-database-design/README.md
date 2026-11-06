@@ -1,4 +1,4 @@
-# Portfolio 1: Database Design and Modelling (7 marks)
+# Portfolio 1: Database Design and Modelling
 
 ## Objective
 Design a relational database for the selected case study (an Olist-style online marketplace, see the main [README](../README.md)), with an ER diagram, relational schema, keys, constraints and a normalisation explanation, then load real data into it.

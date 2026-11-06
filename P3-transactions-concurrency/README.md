@@ -1,4 +1,4 @@
-# Portfolio 3: Transactions and Concurrency (7 marks)
+# Portfolio 3: Transactions and Concurrency
 
 ## Objective
 Show transactions with commit and rollback, the effect of isolation levels, a concurrency problem (lost update), and the mechanisms that control it (locking, atomic updates, deadlock handling).

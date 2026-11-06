@@ -1,4 +1,4 @@
-# Portfolio 4: NoSQL and Advanced Data Models (7 marks)
+# Portfolio 4: NoSQL and Advanced Data Models
 
 ## Objective
 Re-model the case study (the Olist online marketplace) for a NoSQL database, implement it, query it, and explain where a document model is and is not suitable compared with the relational design.
